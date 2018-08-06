@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ostrakon</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Mis Checks</string>
+    <string name="title_notifications">Mi Perfil</string>
+    <string name="descripcion">Óstrakon, vocablo que procede del griego, significa literalmente “teja” o “trozo de vasija”.</string>
+    <string name="descripcion_a">En estos trozos de teja se escribía, con un punzón, el nombre de un político al que se quería condenar por considerarlo un peligro para la comunidad.</string>
+</resources>
